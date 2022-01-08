@@ -15,7 +15,7 @@
 
 1. **Vetur**（高亮显示vue代码）
 2. **Auto Rename Tag**（自动匹配更改html，css的前后双标签）
-3. **Better Comments**（代码注释高亮）
+3. **Better Comments**（代码注释高亮—//！这是注释）
 4. **indent-rainbow**（高亮（每行代码之前的）缩进）
 5. **open in browser**（直接在浏览器打开html文件）
 6. **Chinese(Simplified)** 
